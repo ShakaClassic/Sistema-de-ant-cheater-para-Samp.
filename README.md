@@ -43,7 +43,7 @@
 
 ---
 
-### Descrição Detalhada para o GitHub
+### Descrição do GitHub
 
 **Título**: ShakaByte-BOT: Advanced Player Monitoring and Anti-Cheat System for SA-MP
 
