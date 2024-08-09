@@ -71,5 +71,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 Este projeto é licenciado sob a [Licença MIT](LICENSE), permitindo uso, modificação e distribuição livres, desde que preservados os créditos e as condições da licença.
 
 ---
-
-Essas melhorias e descrições ajudam a garantir que o código não só seja funcional, mas também bem estruturado e facilmente compreensível, promovendo boas práticas de programação e facilitando o desenvolvimento futuro.
